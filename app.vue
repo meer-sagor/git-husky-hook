@@ -3,5 +3,6 @@
 <template>
   <div>
     <NuxtWelcome />
+    <YourName />
   </div>
 </template>

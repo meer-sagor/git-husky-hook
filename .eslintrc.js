@@ -24,5 +24,6 @@ module.exports = {
   plugins: ["vue", "@typescript-eslint", "prettier"],
   rules: {
     "no-console": "error",
+    "no-undef": 'off'
   },
 }
